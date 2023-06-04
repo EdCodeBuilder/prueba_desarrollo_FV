@@ -1,0 +1,2 @@
+id,name,model_id:id,group_id:id,perm_read,perm_write,perm_create,perm_unlink
+excel_transformer_test.access_excel_transformer,access_excel_transformer,excel_transformer_test.model_excel_transformer,base.group_user,1,1,1,1
